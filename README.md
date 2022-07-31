@@ -53,12 +53,15 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 ![image](https://user-images.githubusercontent.com/92646311/182047854-d31d1af9-2e9b-4c51-afd0-1b8de29ce438.png)
 ![image](https://user-images.githubusercontent.com/92646311/182047872-a08b3389-e045-4496-83a1-77e802f51c8d.png)
 
-![Uploading image.png…]()
+-  There were total 11005 five star reviews.  Vine reviews were 5 stars 106 and  non-Vine reviews  5 stars 10899
+-  
+![image](https://user-images.githubusercontent.com/92646311/182047931-c3806b50-01e0-47bc-97e9-fda5edd243fd.png)
 
 
+- Percentage of Vine reviews were 5 stars is 40.61% and percentage of non-Vine reviews were 5 stars is 45.34%
+- 
+- ![image](https://user-images.githubusercontent.com/92646311/182048054-a06580f1-443a-4f42-8dc9-ff2ed868fd43.png)
 
--  Vine reviews were 5 stars                                      - non-Vine reviews  5 stars
-- Percentage of Vine reviews were 5 stars                         - percentage of non-Vine reviews were 5 stars
 
 
 
