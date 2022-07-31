@@ -48,7 +48,15 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 # vine_table analysis
 
--  Vine reviews                                                   - non-Vine reviews
+-  Vine reviews   261                                                 - non-Vine reviews  24040
+
+![image](https://user-images.githubusercontent.com/92646311/182047854-d31d1af9-2e9b-4c51-afd0-1b8de29ce438.png)
+![image](https://user-images.githubusercontent.com/92646311/182047872-a08b3389-e045-4496-83a1-77e802f51c8d.png)
+
+![Uploading image.png…]()
+
+
+
 -  Vine reviews were 5 stars                                      - non-Vine reviews  5 stars
 - Percentage of Vine reviews were 5 stars                         - percentage of non-Vine reviews were 5 stars
 
