@@ -48,22 +48,23 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 # vine_table analysis
 
--  Vine reviews   261                                                 - non-Vine reviews  24040
+-  Vine reviews   261   and  non-Vine reviews  24040
 
 ![image](https://user-images.githubusercontent.com/92646311/182047854-d31d1af9-2e9b-4c51-afd0-1b8de29ce438.png)
 ![image](https://user-images.githubusercontent.com/92646311/182047872-a08b3389-e045-4496-83a1-77e802f51c8d.png)
 
--  There were total 11005 five star reviews.  Vine reviews were 5 stars 106 and  non-Vine reviews  5 stars 10899
--  
+-  There were total 11005 five star reviews.  Vine reviews were five stars 106 and non-Vine reviews were five stars 10899
+  
 ![image](https://user-images.githubusercontent.com/92646311/182047931-c3806b50-01e0-47bc-97e9-fda5edd243fd.png)
 
 
-- Percentage of Vine reviews were 5 stars is 40.61% and percentage of non-Vine reviews were 5 stars is 45.34%
-- 
+- Percentage of Vine reviews there were five stars is 40.61% and for non-Vine reviews five stars is 45.34%.
+
 - ![image](https://user-images.githubusercontent.com/92646311/182048054-a06580f1-443a-4f42-8dc9-ff2ed868fd43.png)
 
 
-
-
-
 # Summary: Determine Bias of Vine Reviews.
+
+The output of both percentages does not have enough margin to decide whether they contain any bias or not in the Vine program. 
+The vine sample size still has a decent number while it is important to note that the non-vine sample has not much difference. The output of both percentages does not have enough margin to decide whether they contain any bias or not in the Vine program. We can perform further analysis on verified purchases to determine the percentage and compare them to see if we can decide if this reveals any positivity bias.
+
