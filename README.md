@@ -46,5 +46,13 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 ![image](https://user-images.githubusercontent.com/92646311/182047448-6200437e-ba77-4be5-a871-d0789507a4b8.png)
 
+# vine_table analysis
+
+-  Vine reviews                                                   - non-Vine reviews
+-  Vine reviews were 5 stars                                      - non-Vine reviews  5 stars
+- Percentage of Vine reviews were 5 stars                         - percentage of non-Vine reviews were 5 stars
+
+
+
 
 # Summary: Determine Bias of Vine Reviews.
